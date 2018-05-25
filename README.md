@@ -1,2 +1,1 @@
-Testing solidity file
-  npm run test
+Testing solidity file : npm run test
