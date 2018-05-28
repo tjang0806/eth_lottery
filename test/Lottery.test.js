@@ -63,7 +63,7 @@ describe('Lottery Contract', () => {
       });
       assert(false);
     } catch (err){
-      assert(err);
+      assert.ok(err);
     }
   });
 
@@ -74,7 +74,7 @@ describe('Lottery Contract', () => {
       });
       assert(false);
     } catch (err){
-      assert(err);
+      assert.ok(err);
     }
   });
 
